@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emitters", "Emitters\Emitters.csproj", "{8719A210-9C83-44D9-9CD8-48055FDF6858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mechanics", "Mechanics\Mechanics.csproj", "{EE1E9793-4614-433A-8061-6E988382B763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8719A210-9C83-44D9-9CD8-48055FDF6858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8719A210-9C83-44D9-9CD8-48055FDF6858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8719A210-9C83-44D9-9CD8-48055FDF6858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8719A210-9C83-44D9-9CD8-48055FDF6858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE1E9793-4614-433A-8061-6E988382B763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE1E9793-4614-433A-8061-6E988382B763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE1E9793-4614-433A-8061-6E988382B763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE1E9793-4614-433A-8061-6E988382B763}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
